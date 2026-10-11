@@ -1,4 +1,4 @@
-# Martha Allen — Portfolio
+# Martha Allen | Portfolio
 
 A responsive, accessible, build-free portfolio based on Martha Allen’s supplied résumé.
 
